@@ -40,6 +40,14 @@ body.pink{
     --primary-color:#D6336C;
     --primary-color-dark:#A61E4D;}
 
+ body.green{
+  --bg-color: #9EFAA3;
+  --text-color:#1F000B;
+  --primary-color:#09AE11;
+  --primary-color-dark:#06740C;
+  }
+
+
 .container {
   text-align: center;
   width: 300px;
